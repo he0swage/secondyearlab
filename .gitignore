@@ -1,0 +1,7 @@
+*.exe
+*.o
+*.out
+output/
+tempCodeRunnerFile.*
+.vscode/
+*.code-workspace
